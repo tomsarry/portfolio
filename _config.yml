@@ -1,6 +1,19 @@
-title: Minimal theme
+title: Tom Sarry
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: 🌱 Junior Software Developer
+  <br>
+  <br>
+  <a href="https://github.com/tomsarry" target="_blank">💻 Github</a>
+  <br>
+  <a href="https://www.linkedin.com/in/tomsarry" target="_blank">📝 LinkedIn</a>
+  <br>
+  <a href="https://blog.tomsarry.com" target="_blank">📚 Blog</a>
+  <hr/>
+  <a href="https://letterboxd.com/tomsarry/" target="_blank">🎬 Letterboxd</a>
+  <br>
+  <a href="https://www.goodreads.com/user/show/156270147" target="_blank">📖 Goodreads</a>
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+# plugins:
+#   - jekyll-redirect-from
