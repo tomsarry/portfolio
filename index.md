@@ -12,17 +12,17 @@ I'm passionate about cooking, climbing as well as expanding my reading (Fantasy 
 
 ## Projects
 
-[cuba](https://cuba.tomsarry.com) \
-Repository of anecdotes of my trip to cuba in 2023.
-
 [typer](https://typer.tomsarry.com) \
 A minimalistic typer, based on BIP39 code words.
 
 [tracer](https://github.com/tomsarry/tracer) \
-A basic CPU ray tracer.
+A basic concurrent CPU ray tracer.
 
 [slic](https://github.com/tomsarry/slic) \
 An superpixel image-segmentation algorithm.
+
+[cuba](https://cuba.tomsarry.com) \
+Repository of anecdotes of my trip to cuba in 2023.
 
 ## Education
 

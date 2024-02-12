@@ -6,13 +6,13 @@ layout: default
 
 **Winter 2024**
 - IFT6042 Synthèse d'Images (_Computer Graphics_)
-- IFT6155 Informatique Quantique (_Quantum Computing_)
 
 **Winter 2023**
+- IFT6155 Informatique Quantique (_Quantum Computing_)
 - IFT6504 Programmation Mathématique (_Mathematical Programming_)
-- IFT6370 Informatique Théorique (_Theoretical Computer Science_)
 
 **Fall 2022**
+- IFT6370 Informatique Théorique (_Theoretical Computer Science_)
 - IFT6150 Traitements d'Images (_Image Processing_)
 - IFT6056 Chaîne de blocs et ses applications (_Blockchain & its application_)
 
